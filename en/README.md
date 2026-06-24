@@ -158,6 +158,13 @@ public issues for security reports.
 ## Acknowledgements
 
 ZKAP's zero-knowledge circuits are co-developed with **SNP Lab at Hanyang
-University**, whose research in zk-SNARK proof systems (published at IEEE TDSC,
-Financial Cryptography, ACM AsiaCCS, and ACM CCS) grounds the zk-OAuth circuit
-in peer-reviewed proof-system research.
+University**. Their research in zk-SNARK proof systems is published at top
+venues — IEEE TDSC, Financial Cryptography, ACM AsiaCCS, and ACM CCS —
+so the zk-OAuth circuit is grounded in peer-reviewed research.
+
+Selected publications:
+
+1. S. Lee, H. Ko, J. Kim, and H. Oh. "vCNN: Verifiable Convolutional Neural Network Based on zk-SNARKs." *IEEE Transactions on Dependable and Secure Computing*, vol. 21, no. 4, pp. 4254–4270, 2024. DOI: [10.1109/TDSC.2023.3348760](https://doi.org/10.1109/TDSC.2023.3348760) (IEEE TDSC Best Paper Award).
+2. J. Lee, J. Choi, J. Kim, and H. Oh. "SAVER: SNARK-Compatible Verifiable Encryption." *Financial Cryptography and Data Security (FC '24)*, LNCS vol. 14745, pp. 209–226, Springer, 2024. DOI: [10.1007/978-3-031-78679-2_11](https://doi.org/10.1007/978-3-031-78679-2_11).
+3. S. Han, G. Yoon, H. Oh, and J. Kim. "DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group." *Proc. 20th ACM Asia Conference on Computer and Communications Security (ASIA CCS '25)*, pp. 72–86, 2025. DOI: [10.1145/3708821.3733863](https://doi.org/10.1145/3708821.3733863).
+4. M. Campanelli, D. Fiore, S. Han, J. Kim, D. Kolonelos, and H. Oh. "Succinct Zero-Knowledge Batch Proofs for Set Accumulators." *Proc. 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)*, pp. 455–469, 2022. DOI: [10.1145/3548606.3560677](https://doi.org/10.1145/3548606.3560677).

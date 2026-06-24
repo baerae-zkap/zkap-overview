@@ -156,5 +156,13 @@ MIT와 Apache-2.0로 이중 라이선스되며,
 ## 감사의 말
 
 ZKAP의 영지식 회로는 **한양대학교 SNP Lab**과 공동 개발되었습니다. zk-SNARK 증명
-시스템에 대한 이들의 연구(IEEE TDSC, Financial Cryptography, ACM AsiaCCS, ACM CCS
-게재)가 zk-OAuth 회로를 동료 심사를 거친 증명 시스템 연구에 기반하게 합니다.
+시스템에 대한 이들의 연구는 IEEE TDSC, Financial Cryptography, ACM AsiaCCS, ACM CCS
+등 최상위 학회·저널에 게재되어, zk-OAuth 회로가 동료 심사를 거친 연구 위에 서 있도록
+뒷받침합니다.
+
+주요 게재 논문:
+
+1. S. Lee, H. Ko, J. Kim, and H. Oh. "vCNN: Verifiable Convolutional Neural Network Based on zk-SNARKs." *IEEE Transactions on Dependable and Secure Computing*, vol. 21, no. 4, pp. 4254–4270, 2024. DOI: [10.1109/TDSC.2023.3348760](https://doi.org/10.1109/TDSC.2023.3348760) (IEEE TDSC Best Paper Award).
+2. J. Lee, J. Choi, J. Kim, and H. Oh. "SAVER: SNARK-Compatible Verifiable Encryption." *Financial Cryptography and Data Security (FC '24)*, LNCS vol. 14745, pp. 209–226, Springer, 2024. DOI: [10.1007/978-3-031-78679-2_11](https://doi.org/10.1007/978-3-031-78679-2_11).
+3. S. Han, G. Yoon, H. Oh, and J. Kim. "DUPLEX: Scalable Zero-Knowledge Lookup Arguments over RSA Group." *Proc. 20th ACM Asia Conference on Computer and Communications Security (ASIA CCS '25)*, pp. 72–86, 2025. DOI: [10.1145/3708821.3733863](https://doi.org/10.1145/3708821.3733863).
+4. M. Campanelli, D. Fiore, S. Han, J. Kim, D. Kolonelos, and H. Oh. "Succinct Zero-Knowledge Batch Proofs for Set Accumulators." *Proc. 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)*, pp. 455–469, 2022. DOI: [10.1145/3548606.3560677](https://doi.org/10.1145/3548606.3560677).
